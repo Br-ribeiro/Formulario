@@ -1,4 +1,4 @@
-def origem_destino_iguas(origem,destino, lista_de_erros):
+def origem_destino_iguais(origem,destino, lista_de_erros):
 
      if origem ==  destino:
             lista_de_erros['destino'] = 'Origem e destino não podem ser iguais'
